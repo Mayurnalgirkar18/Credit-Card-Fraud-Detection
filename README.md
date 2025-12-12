@@ -58,5 +58,5 @@ DBSCAN Clustering shows clusters of normal and suspicious transactions.
 Visualization using PCA helps identify outliers.
 
 # Notes:
-To use the full dataset, replace card_transdata_sample.csv with your full CSV locally.
+To use the full dataset, replace card_transdata_sample.csv with full CSV locally.
 Outputs may vary slightly due to random sampling and model initialization.
