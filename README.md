@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection (Unsupervised Learning)
+# 💳 Credit Card Fraud Detection (Unsupervised Learning)
 # Project Overview
 This project explores unsupervised machine learning techniques to detect fraudulent credit card transactions.
 Since fraud cases are rare (~8.7%), unsupervised methods like Isolation Forest and Agglomerative Clustering are applied to identify anomalies.
