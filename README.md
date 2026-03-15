@@ -57,6 +57,9 @@ Isolation Forest detected most anomalous/fraudulent transactions.
 DBSCAN Clustering shows clusters of normal and suspicious transactions.
 Visualization using PCA helps identify outliers.
 
+# Deployment
+Deployed the projct using streamlit in app.py file. 
+
 # Notes:
 To use the full dataset, replace card_transdata_sample.csv with full CSV locally.
 Outputs may vary slightly due to random sampling and model initialization.
